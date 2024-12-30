@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript gotcha related to type coercion.  The `foo` function intends to add two numbers, but due to JavaScript's dynamic typing, passing a string as an argument leads to unexpected behavior.  The solution shows how to use explicit type checking to avoid this problem.
